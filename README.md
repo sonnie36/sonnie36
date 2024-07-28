@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there!I'm Salome Mwati, a fullstack developer and UI/UX designer.<br>Always seeking to bridge the boundaries between functionality and design.<br>
+👋 Hi there!I'm Salome Mwati, a fullstack developer and UI/UX designer.<br>Always seeking to bridge the gap between functionality and design.<br>
 
 
 ## 🌐 Socials:
