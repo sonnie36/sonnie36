@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there!I'm Salome Mwati, a front-end software developer.<br>🎨A design enthusiast. Always seeking to push the boundaries of UI/UX design.<br>🌱I'm currently learning react framework<br>
+👋 Hi there!I'm Salome Mwati, a fullstack developer and UI/UX designer.<br>Always seeking to bridge the boundaries between functionality and design.<br>
 
 
 ## 🌐 Socials:
