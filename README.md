@@ -1,10 +1,16 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Salome+Mwati;Full-Stack+Software+Engineer;UI%2FUX+Designer;Building+production+SaaS+from+zero+to+ship" alt="Typing SVG" />
+<img src="assets/banner.png" alt="banner" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Salome+Mwati;Full-Stack+Software+Engineer;UI%2FUX+Designer;Building+production+SaaS+from+zero+to+ship" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ### 👩🏾‍💻 About Me
 
@@ -16,7 +22,12 @@
 - 🌱 &nbsp;Exploring **AI integrations, autonomous agents & prompt engineering**
 - 👩‍🏫 &nbsp;Community leader & mentor at **SheCodeAfrica**
 
-<br clear="right"/>
+</td>
+<td width="40%" valign="top">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
