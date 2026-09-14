@@ -20,7 +20,7 @@
 
 </td>
 <td width="40%" valign="top">
-<img src="assets/hello.jpg" width="100%"/>
+<img src="assets/Hello.jpg" alt="Hello World" width="100%"/>
 </td>
 </tr>
 </table>
@@ -50,16 +50,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sonnie36&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats" />
-<img src="https://streak-stats.demolab.com?user=sonnie36&theme=tokyonight&hide_border=true" height="165" alt="streak" />
+<img src="https://raw.githubusercontent.com/sonnie36/sonnie36/output/github-stats.svg" height="165" alt="stats" />
+<img src="https://raw.githubusercontent.com/sonnie36/sonnie36/output/github-streak.svg" height="165" alt="streak" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnie36&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="top langs" />
+<img src="https://raw.githubusercontent.com/sonnie36/sonnie36/output/github-top-langs.svg" height="140" alt="top langs" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonnie36&theme=tokyo-night&hide_border=true" alt="activity graph" />
+<img src="https://raw.githubusercontent.com/sonnie36/sonnie36/output/activity-graph.svg" alt="activity graph" />
 </div>
 
 ---
